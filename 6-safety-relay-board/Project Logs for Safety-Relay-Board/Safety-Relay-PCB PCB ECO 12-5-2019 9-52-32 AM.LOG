@@ -1,0 +1,32 @@
+Added Component: Designator=J1(SHDR9W130P0X500_1X9_4500X820X1020P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70285523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-282836-9/70285523/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282836&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "282836-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-282836-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-282836-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "3617746"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/3617746"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDX-O1 Pin=J1-1
+Added Pin To Net: NetName=SDX-O2 Pin=J1-2
+Added Pin To Net: NetName=SDX-O3 Pin=J1-3
+Added Pin To Net: NetName=SDX-O4 Pin=J1-4
+Added Pin To Net: NetName=SDX-O5 Pin=J1-5
+Added Pin To Net: NetName=SDX-O6 Pin=J1-6
+Added Pin To Net: NetName=SDX-O7 Pin=J1-7
+Added Pin To Net: NetName=SDX-O8 Pin=J1-8
+Added Pin To Net: NetName=SDX-O9 Pin=J1-9
+Added Member To Class: ClassName=Safety-Relay-Schematic Member=Component J1 282836-9
+Added Member To Class: ClassName=Safety-Relay-Schematic Member=Component J2 282836-9
+Added Room: Name=U1
+Added Room: Name=U2
+Added Room: Name=U3
+Added Room: Name=U4
+Added Room: Name=U5
+Added Room: Name=U6
+Added Room: Name=U7
+Added Room: Name=U8
+Added Room: Name=U9

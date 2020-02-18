@@ -1,0 +1,20 @@
+Added Component: Designator=J1(SHDR6W100P0X500_1X6_3000X820X1000P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70088849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-282836-6/70088849/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/418/NG_CD_282836_H10-625726.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "282836-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-2828366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-2828366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "3617702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/3617702"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDX-O1 Pin=J1-1
+Added Pin To Net: NetName=SDX-O2 Pin=J1-2
+Added Pin To Net: NetName=SDX-O3 Pin=J1-3
+Added Pin To Net: NetName=SDX-O4 Pin=J1-4
+Added Pin To Net: NetName=SDX-O5 Pin=J1-5
+Added Pin To Net: NetName=SDX-O6 Pin=J1-6
+Added Member To Class: ClassName=Safety-Relay-Schematic Member=Component J1 282836-6
+Added Member To Class: ClassName=Safety-Relay-Schematic Member=Component J2 282836-6

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [6-Safety-Relay-Board.PrjPcb]
+   Generated File[6-Safety-Relay-PCB.TXT]
+   Generated File[6-Safety-Relay-PCB.LDP]
+   Generated File[6-Safety-Relay-PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:59:09 AM On 2/3/2020

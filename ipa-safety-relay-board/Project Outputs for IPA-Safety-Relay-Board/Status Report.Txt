@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IPA-Safety-Relay-Board.PrjPcb]
+   Generated File[IPA-Safety-Relay-PCB.TXT]
+   Generated File[IPA-Safety-Relay-PCB.LDP]
+   Generated File[IPA-Safety-Relay-PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:41:47 AM On 2/3/2020

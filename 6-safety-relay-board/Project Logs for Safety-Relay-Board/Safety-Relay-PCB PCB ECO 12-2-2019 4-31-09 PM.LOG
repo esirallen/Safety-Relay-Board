@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Pin From Net: NetName=COM-IN Pin=J3-7
+Removed Pin From Net: NetName=NetK1_U7_5 Pin=U8-4
+Removed Pin From Net: NetName=SAFETY-A-OUT Pin=U8-5
+Removed Pin From Net: NetName=SAFETY-B-OUT Pin=U8-6
+Removed Pin From Net: NetName=NetK1_U7_6 Pin=U8-7
+Removed Pin From Net: NetName=SDX-O8 Pin=U8-8
+Removed Pin From Net: NetName=COMMON Pin=U8-9
+Removed Pin From Net: NetName=GND Pin=U8-10
+Removed Member From Class: ClassName=U8 Member=U8
+Change Component Footprint: Designator=J1 Old Footprint=691311700008 New Footprint=SHDR9W120P0X500_1X9_4700X1200X860P
+Change Component Footprint: Designator=J2 Old Footprint=SHDR8W110P0X500_1X8_4000X900X1520P New Footprint=SHDR9W120P0X500_1X9_4700X1200X860P
+Change Component Comment : Designator=J2 Old Comment=796683-8 New Comment=1923827
+Change Component Comment : Designator=J1 Old Comment=691311700008 New Comment=1923827
+Change Component Designator: OldDesignator=SW9 NewDesignator=SW1
+Change Component Designator: OldDesignator=U1 NewDesignator=K1_U1
+Change Component Designator: OldDesignator=U2 NewDesignator=K1_U2
+Change Component Designator: OldDesignator=U3 NewDesignator=K1_U3
+Change Component Designator: OldDesignator=U4 NewDesignator=K1_U4
+Change Component Designator: OldDesignator=U5 NewDesignator=K1_U5
+Change Component Designator: OldDesignator=U6 NewDesignator=K1_U6
+Change Component Designator: OldDesignator=U7 NewDesignator=K1_U7
+Change component parameters: Designator = "J2"; Footprint = "SHDR9W120P0X500_1X9_4700X1200X860P"; UniqueID = "\FHMIJRMF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/13aa/0900766b813aa39b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1923827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8598287"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8598287"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1"; Footprint = "SHDR9W120P0X500_1X9_4700X1200X860P"; UniqueID = "\DPUKYQPN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/13aa/0900766b813aa39b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1923827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8598287"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8598287"; VariantName = "[No Variations]"
+Added Component: Designator=K1_U8(P7SA10PG7SA2A2B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70033653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/omron-safety-sti-p7sa-10p/70033653/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ia.omron.com/data_pdf/cat/g7sa_j120-e1_12_1_csm1269.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P7SA-10P (G7SA-3A1B)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-P7SA-10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=653-P7SA-10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=K1_U9(P7SA10PG7SA2A2B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70033653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/omron-safety-sti-p7sa-10p/70033653/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ia.omron.com/data_pdf/cat/g7sa_j120-e1_12_1_csm1269.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P7SA-10P (G7SA-3A1B)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-P7SA-10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=653-P7SA-10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=COM-IN Pin=J3-6
+Added Pin To Net: NetName=SENSOR-1 Pin=K1_U1-1
+Added Pin To Net: NetName=SENSOR-2 Pin=K1_U2-1
+Added Pin To Net: NetName=SENSOR-3 Pin=K1_U3-1
+Added Pin To Net: NetName=SENSOR-4 Pin=K1_U4-1
+Added Pin To Net: NetName=SENSOR-5 Pin=K1_U5-1
+Added Pin To Net: NetName=SENSOR-6 Pin=K1_U6-1
+Added Pin To Net: NetName=SENSOR-7 Pin=K1_U7-1
+Added Pin To Net: NetName=SENSOR-8 Pin=K1_U8-1
+Added Pin To Net: NetName=NetK1_U7_5 Pin=K1_U8-4
+Added Pin To Net: NetName=NetK1_U7_6 Pin=K1_U8-7
+Added Pin To Net: NetName=SDX-O8 Pin=K1_U8-8
+Added Pin To Net: NetName=COMMON Pin=K1_U8-9
+Added Pin To Net: NetName=GND Pin=K1_U8-10
+Added Pin To Net: NetName=SAFETY-A-OUT Pin=K1_U9-5
+Added Pin To Net: NetName=SAFETY-B-OUT Pin=K1_U9-6
+Added Pin To Net: NetName=COMMON Pin=K1_U9-9
+Added Pin To Net: NetName=GND Pin=K1_U9-10
+Added Pin To Net: NetName=NetK1_U8_5 Pin=K1_U8-5
+Added Pin To Net: NetName=NetK1_U8_5 Pin=K1_U9-4
+Added Net: Name=NetK1_U8_5
+Added Pin To Net: NetName=NetK1_U8_6 Pin=K1_U8-6
+Added Pin To Net: NetName=NetK1_U8_6 Pin=K1_U9-7
+Added Net: Name=NetK1_U8_6
+Added Pin To Net: NetName=SDX-O9 Pin=J1-9
+Added Pin To Net: NetName=SDX-O9 Pin=K1_U9-8
+Added Net: Name=SDX-O9
+Added Pin To Net: NetName=SENSOR-9 Pin=J2-9
+Added Pin To Net: NetName=SENSOR-9 Pin=K1_U9-1
+Added Net: Name=SENSOR-9
+Added Class: Name=U9
+Added Member To Class: ClassName=Safety-Relay-Schematic Member=Component J3 796683-8
+Added Member To Class: ClassName=U8 Member=Component K1_U8 (K1) P7SA-10P_(G7SA-3A1B)
+Added Room: Name=Safety-Relay-Schematic
+Added Room: Name=U1
+Added Room: Name=U2
+Added Room: Name=U3
+Added Room: Name=U4
+Added Room: Name=U5
+Added Room: Name=U6
+Added Room: Name=U7
+Added Room: Name=U8
+Added Room: Name=U9

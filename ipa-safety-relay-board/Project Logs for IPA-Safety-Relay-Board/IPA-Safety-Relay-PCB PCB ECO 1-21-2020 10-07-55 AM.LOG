@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=SENSOR-6 Pin=K1_U6-1
+Removed Pin From Net: NetName=NetK1_U5_5 Pin=K1_U6-2
+Removed Pin From Net: NetName=SDX-O6 Pin=K1_U6-6
+Removed Pin From Net: NetName=NetK1_U5_6 Pin=K1_U6-8
+Change Component Footprint: Designator=J1 Old Footprint=SHDR6W100P0X500_1X6_3000X820X1000P New Footprint=SHDR9W130P0X500_1X9_4500X820X1020P
+Change Component Footprint: Designator=J2 Old Footprint=SHDR6W100P0X500_1X6_3000X820X1000P New Footprint=SHDR9W130P0X500_1X9_4500X820X1020P
+Change Component Comment : Designator=J1 Old Comment=282836-6 New Comment=282836-9
+Change Component Comment : Designator=J2 Old Comment=282836-6 New Comment=282836-9
+Change Component Designator: OldDesignator=K1_U6 NewDesignator=K?
+Change component parameters: Designator = "J1"; Footprint = "SHDR9W130P0X500_1X9_4500X820X1020P"; UniqueID = "\AODEYDQW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70285523"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-282836-9/70285523/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282836&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "282836-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-282836-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-282836-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "3617746"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/3617746"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "SHDR9W130P0X500_1X9_4500X820X1020P"; UniqueID = "\SRROURBE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70285523"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-282836-9/70285523/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282836&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "282836-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-282836-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-282836-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "3617746"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/3617746"; VariantName = "[No Variations]"
+Added Component: Designator=K1_U6(P7SA10PG7SA2A2B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70033653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/omron-safety-sti-p7sa-10p/70033653/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ia.omron.com/data_pdf/cat/g7sa_j120-e1_12_1_csm1269.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P7SA-10P (G7SA-3A1B)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-P7SA-10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=653-P7SA-10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=K1_U7(P7SA10PG7SA2A2B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70033653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/omron-safety-sti-p7sa-10p/70033653/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ia.omron.com/data_pdf/cat/g7sa_j120-e1_12_1_csm1269.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P7SA-10P (G7SA-3A1B)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-P7SA-10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=653-P7SA-10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SENSOR-6 Pin=K1_U6-1
+Added Pin To Net: NetName=NetK1_U5_5 Pin=K1_U6-4
+Added Pin To Net: NetName=NetK1_U5_6 Pin=K1_U6-7
+Added Pin To Net: NetName=SDX-O6 Pin=K1_U6-8
+Added Pin To Net: NetName=COMMON Pin=K1_U6-9
+Added Pin To Net: NetName=GND Pin=K1_U6-10
+Added Pin To Net: NetName=COMMON Pin=K1_U7-9
+Added Pin To Net: NetName=GND Pin=K1_U7-10
+Added Pin To Net: NetName=NetK1_U6_5 Pin=K1_U6-5
+Added Pin To Net: NetName=NetK1_U6_5 Pin=K1_U7-4
+Added Net: Name=NetK1_U6_5
+Added Pin To Net: NetName=NetK1_U6_6 Pin=K1_U6-6
+Added Pin To Net: NetName=NetK1_U6_6 Pin=K1_U7-7
+Added Net: Name=NetK1_U6_6
+Added Pin To Net: NetName=NetK1_U7_5 Pin=K1_U7-5
+Added Pin To Net: NetName=NetK1_U7_5 Pin=K?-2
+Added Net: Name=NetK1_U7_5
+Added Pin To Net: NetName=NetK1_U7_6 Pin=K1_U7-6
+Added Pin To Net: NetName=NetK1_U7_6 Pin=K?-8
+Added Net: Name=NetK1_U7_6
+Added Pin To Net: NetName=SDX-O7 Pin=J1-7
+Added Pin To Net: NetName=SDX-O7 Pin=K1_U7-8
+Added Net: Name=SDX-O7
+Added Pin To Net: NetName=SDX-O8 Pin=J1-8
+Added Pin To Net: NetName=SDX-O8 Pin=K?-6
+Added Net: Name=SDX-O8
+Added Pin To Net: NetName=SENSOR-7 Pin=J2-7
+Added Pin To Net: NetName=SENSOR-7 Pin=K1_U7-1
+Added Net: Name=SENSOR-7
+Added Pin To Net: NetName=SENSOR-8 Pin=J2-8
+Added Pin To Net: NetName=SENSOR-8 Pin=K?-1
+Added Net: Name=SENSOR-8
+Change Class Name : Old Net Name=Safety-Relay-Schematic New Net Name=IPA-Safety-Relay-Schematic
+Added Class: Name=U7
+Added Class: Name=U8
+Added Class: Name=IPA-Safety-Relay-SubSch
